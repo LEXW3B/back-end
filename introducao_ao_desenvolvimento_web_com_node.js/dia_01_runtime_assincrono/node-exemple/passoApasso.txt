@@ -1,0 +1,14 @@
+                  "CONFIGURAÇÃO INICIAL PARA PROJETOS"
+
+npm init -y === 'Para criar o arquivo package.json assim inicializando uma aplicação Node.'
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+npm install readline-sync === 'Permite ler entradas do usuário escritas no console, criando o arquivo package-lock.json e a pasta node_modules.'
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+crie um arquivo index.js === 'Para fazer os testes dessa biblioteca de interação entre o terminal é o usuário.'
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+npm intall nodemon -D === 'É uma biblioteca de desenvolvimento não vai para a produção.
+Ela serve para ficar atualizando a aplicação toda vez que for modificada os arquivos.'
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+OBS:. Para saber o tamanho de um arquivo digite no terminal, du -hs (é o nome da pasta ou arquivo)
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+touch .gitinit === 'Para criar o arquivo .gitinit o qual tudo que estiver dentro dele será excluído antes de ir para o repositório GitHub.'
