@@ -2,7 +2,7 @@ require('dotenv').config();
 
 const devConfig = {
   username: process.env.MYSQL_USER || 'root',
-  password: process.env.MYSQL_PASSWORD || 'password',
+  password: process.env.MYSQL_PASSWORD || 'mynewpassword',
   database: process.env.MYSQL_NAME_BD || 'database',
   host: process.env.MYSQL_HOST || 'localhost',
   port: process.env.MYSQL_PORT || 3306,
