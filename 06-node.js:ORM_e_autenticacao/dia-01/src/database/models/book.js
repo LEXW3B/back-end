@@ -4,6 +4,6 @@ const Book = (sequelize, DataTypes) => sequelize.define('Book', {
   pageQuantity: DataTypes.INTEGER,
   createdAt: DataTypes.DATE,
   updatedAt: DataTypes.DATE,
-}, {tableName: 'Book'});
+}, {tableName: 'books'});
 
 module.exports = Book;
